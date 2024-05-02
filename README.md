@@ -1,0 +1,2 @@
+# bouha
+setting up git
